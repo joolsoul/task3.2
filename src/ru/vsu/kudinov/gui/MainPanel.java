@@ -35,7 +35,7 @@ public class MainPanel extends JPanel
         addButton(divide, 190, 250, 50, Color.PINK.darker());
         addButton(oParenthesis, 10, 250, 50,  Color.PINK);
         addButton(cParenthesis, 130, 250, 50,  Color.PINK);
-        addButton(clear, 10, 310, 110, Color.RED.darker());
+        addButton(clear, 10, 310, 110, Color.GRAY.darker());
         addButton(calculate, 130, 310, 110, Color.CYAN.darker());
 
 

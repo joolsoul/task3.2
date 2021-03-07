@@ -8,7 +8,7 @@ public class FrameMain
 
     public FrameMain()
     {
-        frame = new JFrame("calculator");
+        frame = new JFrame("Calculator");
         frame.setSize(255, 400);
         frame.add(new MainPanel());
         frame.setLocationRelativeTo(null);
