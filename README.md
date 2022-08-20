@@ -14,3 +14,7 @@ a + (b + c) * d  =>  a b c + d * +
 
 
 видео: https://youtu.be/fR1AZBCYOws
+
+<!--  -->
+![image](https://user-images.githubusercontent.com/71376506/185749405-d39b2701-3738-42ed-aafe-01869757585d.png)
+
